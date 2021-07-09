@@ -516,13 +516,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #more-features .price {
   color: #111;
-  margin-right: 40px;
+  text-align: right;
 }
 
 #more-features .time {
   color: #888;
   font-size: 10px;
-  margin-right: 40px;
   text-align: right;
 }
 
@@ -540,11 +539,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
   #more-features .price {
     font-size: 12px;
-    margin-right: 20px;
-  }
-
-  #more-features .time {
-    margin-right: 20px;
   }
 
 }
